@@ -16,7 +16,7 @@ on:
 env:
   ROM_URL: https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS1.0.45.0.UNCCNXM/miui_HOUJI_OS1.0.45.0.UNCCNXM_8597412d79_14.0.zip
   ROM_NAME: MIUI
-  BUILD_TYPE: ab
+  BUILD_TYPE: Aonly
   TZ: Asia/Shanghai
 
 jobs:
